@@ -1,3 +1,7 @@
+// Justin Buth
+// CS 380
+// 2/3/2016
+
 import java.io.*;
 import java.net.*;
 import javax.net.SocketFactory;

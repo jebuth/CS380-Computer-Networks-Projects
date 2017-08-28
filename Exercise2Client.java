@@ -1,3 +1,7 @@
+// Justin Buth
+// CS 380
+// 1/20/2016
+
 import java.io.IOException;
 import java.io.PrintStream;
 import java.io.InputStream;

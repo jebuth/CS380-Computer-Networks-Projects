@@ -1,3 +1,7 @@
+// Justin Buth
+// CS 380
+// 2/10/2016
+
 import java.io.*;
 import java.net.*;
 import java.util.*;

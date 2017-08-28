@@ -1,4 +1,6 @@
-package cs380;
+// Justin Buth
+// CS 380
+// 2/18/2016
 
 import java.io.*;
 import java.net.*;
